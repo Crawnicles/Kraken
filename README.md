@@ -46,3 +46,21 @@ Collaborate with engineering teams and stakeholders to build key datasets and da
 
 5) Backtest to see if any strategies perform better within these higher volatility markets
 
+
+
+Step 1:
+
+In Terminal create a new conda environment:
+
+*conda create --name krakenite python=3.7*
+
+*conda activate krakenite*
+
+
+pip install pandas
+conda install matplotlib
+pip install hvplot
+pip install pykrakenapi
+
+
+
