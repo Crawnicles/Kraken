@@ -1,7 +1,7 @@
 # Kraken
 
 In preparation for a job interview with Kraken for a Treasury Project Management - Data Analyst role. 
-The role suggests the applicant has the following technical skills, therefore I will display these in an application that 
+The role suggests the applicant has the following technical skills, therefore I will display these: 
 
 
 
