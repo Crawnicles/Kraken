@@ -63,4 +63,8 @@ pip install hvplot
 pip install pykrakenapi
 
 
+Reading about Jim Simons has lead me to believe that algorithms will win the crypto markets but simply cleaning data, backtesting, and applying a scenario is not enough.
+
+
+
 
